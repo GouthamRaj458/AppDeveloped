@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#D1CFCF</color>
+    <color name="textColor">#000000</color>
+    <color name="progressBarColor">#FF5722</color>
+
+
+        <!-- Primary branding colors -->
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryVariant">#3700B3</color>
+        <color name="colorSecondary">#03DAC5</color>
+
+        <!-- Background colors -->
+        <color name="backgroundColor">#FFFFFF</color>
+        <color name="surfaceColor">#F5F5F5</color>
+
+        <!-- Text colors -->
+        <color name="textColorPrimary">#000000</color>
+        <color name="textColorSecondary">#757575</color>
+
+        <!-- Button Colors -->
+        <color name="buttonColor">#6200EE</color>
+        <color name="buttonTextColor">#FFFFFF</color>
+
+        <!-- Status Bar Color -->
+        <color name="statusBarColor">#3700B3</color>
+
+        <!-- Navigation Bar -->
+        <color name="navBarColor">#FFFFFF</color>
+
+        <!-- Error Colors -->
+        <color name="errorColor">#B00020</color>
+
+    <!--dark theme-->
+        <!-- Primary branding colors -->
+        <color name="primaryColor">#BB86FC</color> <!-- A lighter purple for dark theme -->
+        <color name="primaryColorVariant">#3700B3</color> <!-- Darker purple for primary variant -->
+        <color name="accentColor">#03DAC6</color> <!-- Secondary/Accent color -->
+
+        <!-- Background and Surface colors -->
+        <color name="darkBackgroundColor">#121212</color> <!-- Dark grey background for dark theme -->
+        <color name="surfaceBackgroundColor">#1E1E1E</color> <!-- Slightly lighter grey for surfaces -->
+
+        <!-- Text colors -->
+        <color name="primaryTextColor">#B5A4A4</color> <!-- White text color for dark background -->
+        <color name="secondaryTextColor">#DFBFBF</color> <!-- Light grey for secondary text -->
+
+        <!-- Button Colors -->
+        <color name="buttonBackgroundColor">#BB86FC</color> <!-- Light purple for button background -->
+        <color name="buttonTextColorDark">#000000</color> <!-- Black text for buttons in dark theme -->
+
+        <!-- Status Bar Color -->
+        <color name="statusBarDarkColor">#3700B3</color> <!-- Darker purple for the status bar -->
+
+        <!-- Navigation Bar Color -->
+        <color name="navigationBarDarkColor">#121212</color> <!-- Navigation bar color matching background -->
+
+        <!-- Error Colors -->
+        <color name="errorTextColorDark">#CF6679</color> <!-- Softer red for errors in dark theme -->
+
+
+
+
+</resources>

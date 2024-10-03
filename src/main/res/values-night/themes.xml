@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.WeatherForecast" parent="Theme.Material3.DayNight.NoActionBar">
+
+                <!-- Primary colors -->
+                <item name="colorPrimary">@color/primaryColor</item>
+                <item name="colorPrimaryVariant">@color/primaryColorVariant</item>
+                <item name="colorSecondary">@color/accentColor</item>
+
+                <!-- Backgrounds and surfaces -->
+                <item name="android:windowBackground">@color/darkBackgroundColor</item>
+                <item name="colorSurface">@color/surfaceBackgroundColor</item>
+
+                <!-- Text colors -->
+                <item name="android:textColorPrimary">@color/primaryTextColor</item>
+                <item name="android:textColorSecondary">@color/secondaryTextColor</item>
+
+                <!-- Status Bar and Nav Bar -->
+                <item name="android:statusBarColor">@color/statusBarDarkColor</item>
+                <item name="android:navigationBarColor">@color/navigationBarDarkColor</item>
+
+                <!-- Error Color -->
+                <item name="colorError">@color/errorTextColorDark</item>
+
+
+    </style>
+</resources>
