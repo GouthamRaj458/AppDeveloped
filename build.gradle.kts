@@ -34,7 +34,6 @@ android {
             isMinifyEnabled = false // Disable minification for debug builds
         }
 
-
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
@@ -75,20 +74,15 @@ dependencies {
     implementation (libs.androidx.lifecycle.runtime.ktx)
     implementation (libs.androidx.lifecycle.viewmodel.ktx)
     implementation (libs.androidx.lifecycle.livedata.ktx)
-
     // Gson
     implementation (libs.gson)
-
     //github weather view
     implementation (libs.weatherview)
-
     //viewModel
     implementation (libs.androidx.activity.ktx)
     implementation (libs.blurview.vversion205)
     implementation(libs.glide)
 
-    //
-    implementation (libs.timber)
     //material
     implementation (libs.material.v161)
 
