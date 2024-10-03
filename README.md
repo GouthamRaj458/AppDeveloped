@@ -1,4 +1,4 @@
-Weather Forecast
+## Weather Forecast
 
 ## Description
 Welcome to the Weather Forecast App, a user-friendly Android application developed using Kotlin. This app provides real-time weather updates based on your current location and allows users to search for weather information by latitude and longitude. Additionally, the app's background dynamically changes to reflect the current weather conditions, enhancing the user experience.
